@@ -1,2 +1,35 @@
-# .github
-Hexadata: innovación argentina en tecnología educativa. Desarrollamos, fabricamos y comercializamos soluciones tecnológicas accesibles y transformadoras para el ámbito educativo.
+# Hexadata
+
+¡Bienvenid@s al perfil de Hexadata en GitHub!  
+Somos un emprendimiento argentino joven dedicado a desarrollar, fabricar y comercializar soluciones tecnológicas innovadoras y accesibles, principalmente dirigidas al ámbito educativo.
+
+## ¿Quiénes somos?
+
+Hexadata nació con el objetivo de transformar la educación a través de la tecnología, acercando herramientas modernas, flexibles y de calidad a docentes, estudiantes e instituciones educativas. Apuntamos a reducir la brecha digital y fomentar el aprendizaje significativo en todos los niveles.
+
+## ¿Qué hacemos?
+
+- **Desarrollo de productos tecnológicos**: Hardware y software diseñados especialmente para la educación.
+- **Fabricación local:** Apostamos a la industria nacional para acercar tecnología adaptada a la realidad argentina.
+- **Comercialización accesible:** Soluciones de calidad para que todos puedan acceder a la innovación.
+
+## Nuestras soluciones
+
+- Sensores inteligentes.
+- Kits educativos tecnológicos (próximamente).
+- Recursos y herramientas para docentes y estudiantes.
+- Capacitación y asesoramiento.
+
+## ¿Por qué elegir Hexadata?
+
+- Pasión por la educación y la tecnología.
+- Compromiso con la innovación y la accesibilidad.
+- Soporte personalizado y humano.
+
+---
+
+¡Explorá nuestros repositorios y sumate a la transformación educativa!
+
+Contacto:  
+[hexadata.com.ar](https://hexadata.com.ar)  
+info@hexadata.com.ar
